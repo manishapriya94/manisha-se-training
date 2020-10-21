@@ -12,13 +12,13 @@ A guided syllabus and list of deliverables built around [SE Expectations](https:
 ## Focus Area for Deliverables 
 <table>
   <tr>
-   <td>Customer Calls 
+   <td>[Customer Calls](https://github.com/manishapriya94/manisha-training/tree/master/Customer%20Calls) 
    </td>
-   <td>Lunch & Learns (internal)
+   <td>[Lunch & Learns](https://github.com/manishapriya94/manisha-training/tree/master/implementation) (internal)
    </td>
-   <td>Implementation examples 
+   <td>[Implementation examples](https://github.com/manishapriya94/manisha-training/tree/master/lunch-n-learn)
    </td>
-   <td>Enablement
+   <td>[Enablement](https://github.com/manishapriya94/manisha-training/blob/master/Enablement/Table%20of%20Contents.md)
    </td>
   </tr>
   <tr>
