@@ -51,9 +51,7 @@ A guided syllabus and list of deliverables built around [SE Expectations](https:
 
 <li>API Integration 
 
-<li>Test cases
-
-<li>Clustering
+<li>Test case
 
 <li>Team Projects: ProgramEquity
 
