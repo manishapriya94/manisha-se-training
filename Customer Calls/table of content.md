@@ -9,7 +9,7 @@ To engage in full sales cycle conversations under the following principles of Te
 - Flow over features
 - Sells the present not the future 
 
-Format: 
+## Format: 
 The finalized account plan will live in the repo, each account under this directory will have the following in issues (add labels for whichever actions we conducted) as well as the SE/Rep sitting on the call: 
 - Pre-notes
 - Tech Demos
