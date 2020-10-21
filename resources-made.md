@@ -1,6 +1,13 @@
 # Table of Contents 
 
-A place for all resources created to educated salesdev team 
+A place for all resources created to educate salesdev team and personal development
+
+## Certifications
+- [ ] AWS Solutions Architect
+- [ ] Azure Developer 
+- [ ] Practical DevSecOps 
+- [ ] GCP
+
 
 ## GitHub Features
 Package Registry    
